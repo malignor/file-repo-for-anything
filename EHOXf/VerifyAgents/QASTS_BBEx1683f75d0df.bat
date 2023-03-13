@@ -1,2 +1,0 @@
-whoami >> OPWAI.txt
-"c:\TestingTools\ReadyAPI-1.9.0\bin\testrunner.bat" -f \\QA-DTE-LAUNCHPA\M$\ExecLogs -s TestRobot -c robotSampleCase-1 "\\QA-DTE-LAUNCHPA\M$\Projects\TomDalsin\IF-soapui-project_VTE_TomsPoC.xml"
