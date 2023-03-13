@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MasterRobot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MasterRobot_jar</output-path>
+    <root id="archive" name="MasterRobot.jar">
+      <element id="module-output" name="MasterRobot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/MasterRobot_jar/MasterRobot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

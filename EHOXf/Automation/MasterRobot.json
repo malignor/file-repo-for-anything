@@ -1,0 +1,36 @@
+{	
+	"robotScript": {
+		"locations": [
+			{"type": "agent", "ip": "10.251.40.40", "name": "ONTINJV2SAV001", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.41", "name": "ONTINJV2SAV002", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.42", "name": "ONTINJV2SAV003", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.43", "name": "ONTINJV2SAV004", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.44", "name": "ONTINJV2SAV005", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.45", "name": "ONTINJV2SAV006", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.46", "name": "ONTINJV2SAV007", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.47", "name": "ONTINJV2SAV008", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.48", "name": "ONTINJV2SAV009", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.49", "name": "ONTINJV2SAV010", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.50", "name": "ONTINJV2SAV011", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.51", "name": "ONTINJV2SAV012", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.52", "name": "ONTINJV2SAV013", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.53", "name": "ONTINJV2SAV014", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.54", "name": "ONTINJV2SAV015", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.55", "name": "ONTINJV2SAV016", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.56", "name": "ONTINJV2SAV017", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.57", "name": "ONTINJV2SAV018", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.58", "name": "ONTINJV2SAV019", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "agent", "ip": "10.251.40.59", "name": "ONTINJV2SAV020", "login": "QAservice.soapui01", "password": "Welcome01", "testRunnerAt": "c:\\TestingTools\\ReadyAPI-1.9.0\\bin"},
+			{"type": "results", "ip": "10.251.40.11", "name": "QA-DTE-LAUNCHPA", "login": "QAservice.soapui01", "password": "Welcome01", "writeTo": "M:\\ExecLogs"},
+			{"type": "projects", "ip": "10.251.40.11", "name": "QA-DTE-LAUNCHPA", "login": "QAservice.soapui01", "password": "Welcome01", "projectsAt": "M:\\Projects"}
+		], 
+		"tests": [
+			{"agent": "10.251.40.54", 		"projectFile": "QA\\HiAL1.0_VTE_Landing_Test", "suite":"TestSuite-1",	"case":"TestCase-1",	"when":"201812110030"	},
+			{"agent": "10.251.40.55", 		"projectFile": "QA\\HiAL1.0_VTE_Landing_Test", "suite":"TestSuite-1",	"case":"TestCase-1"						},
+			{"agent": "10.251.40.56", 		"projectFile": "QA\\HiAL1.0_VTE_Landing_Test", "suite":"TestSuite-1"										},
+			{"agent": "10.251.40.57", 		"projectFile": "QA\\HiAL1.0_VTE_Landing_Test", "suite":"TestSuite-1",					"when":"201812110030"	},
+			{"agent": "ONTINJV2SAV009", 	"projectFile": "QA\\HiAL1.0_VTE_Landing_Test", "suite":"TestSuite-1"										},
+			{"agent": "3", 				"projectFile": "TomDalsin\\IF-soapui-project_VTE_TomsPoC", "suite":"TestRobot"								}
+		]
+	}
+}

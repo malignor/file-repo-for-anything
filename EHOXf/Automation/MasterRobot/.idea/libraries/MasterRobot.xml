@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MasterRobot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/MasterRobot_jar/MasterRobot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
